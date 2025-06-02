@@ -17,3 +17,11 @@ The two models are trained in an adversarial setting, where the Generator improv
 
 ## 📁 Project Structure
 
+├── generator.py # Generator model
+├── discriminator.py # Discriminator model
+├── train.py # Training logic
+├── utils.py # Utility functions (e.g., save_images)
+├── main.py # Entry point
+├── images/ # Output folder for generated images
+├── requirements.txt # Required Python packages
+└── README.md # Project documentation
